@@ -1,4 +1,4 @@
-# Tasks Master
+# Task Master
 
 >Self learning for python- Flask Framework
 
